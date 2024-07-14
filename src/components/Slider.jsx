@@ -1,16 +1,18 @@
 
-import { useState } from "react";
-import SkillsImage from "../assets/largeCar.jpg";
-import BookImg from "../assets/note.jpeg";
-import Design from "../assets/design.jpeg";
-import ArrowBtn from "../assets/arrow.png";
+import { useEffect, useState } from "react";
+import SkillsImage from "../assets/edu.jpeg";
+import Design from "../assets/desker.jpeg";
+import JobImg from "../assets/deskers.jpeg";
+import ArrowBtn from "../assets/arrow1.png";
+import PlayIcon from "../assets/play.png";
+import PauseIcon from "../assets/Pause.png"
 import Navbar from "./Navbar";
 
 
 //Slide image and text
 const sliderData = [
     {
-        text: "acquire Skills that benefits you",
+        text: "Acquire Skills that benefits you",
         textSub: "from anyWhere",
         image: 'url'
     },
@@ -28,22 +30,22 @@ const sliderData = [
 function SliderBgImage({ slideCounter }) {
     if (slideCounter === 0) {
         return (
-            <img className="bgImage" src={BookImg} alt="Education" />
+            <img className="bgImage" src={SkillsImage} alt="Education" />
         );
 
     } else if (slideCounter === 1) {
         return (
-            <img className="bgImage" src={SkillsImage} alt="Education" />
+            <img className="bgImage" src={Design} alt="Education" />
         );
     } else if (slideCounter === 2) {
         return (
-            <img className="bgImage" src={Design} alt="Education" />
+            <img className="bgImage" src={JobImg} alt="Education" />
         );
 
     }
 }
 
-function InfoText({sliderData,slideCounter,setSlideCounter}){
+function InfoText({sliderData,slideCounter,setSlideCounter,playVideo,setPlayVideo}){
     return(
         <div className="hero">
             <div className="wecome-txt">
@@ -52,8 +54,21 @@ function InfoText({sliderData,slideCounter,setSlideCounter}){
             </div>
             <div className="explore">
                 <p>Explore More</p>
-                <img src={ArrowBtn}/>
+                <img className="arrow-btn" src={ArrowBtn}/>
             </div>
+            <div className="slider-index">
+                <ul>
+                    <li onClick={()=>setSlideCounter(0)} className={slideCounter===0?"slider-dot green":"slider-dot"}></li>
+                    <li onClick={()=>setSlideCounter(1)} className={slideCounter===1?"slider-dot green":"slider-dot"}></li>
+                    <li onClick={()=>setSlideCounter(2)} className={slideCounter===2?"slider-dot green":"slider-dot"}></li>
+                </ul>
+            </div>
+        {/*
+            <div className="play_video">
+                <img onClick={()=>setPlayVideo(!playVideo)} src={playVideo?PauseIcon:PlayIcon} alt="" class="playicon" />
+                <p>Play video</p>
+            </div>
+            */}
         </div>
     );
 
@@ -62,12 +77,23 @@ function InfoText({sliderData,slideCounter,setSlideCounter}){
 export default function Slider() {
     //states
     const [slideCounter, setSlideCounter] = useState(0);
-    
+    const [playVideo,setPlayVideo]=useState(false); 
+    //Automatic carosel change
+    useEffect(()=>{
+        setInterval(()=>{
+            setSlideCounter((count)=>{return count===2?0:count+1})
+        },5000);
+
+    },[])
+
+     const handlePlayVideo=()=>{
+        setPlayVideo(true);
+     }
 
     return (
         <div>
             <Navbar />
-            <SliderBgImage slideCounter={slideCounter} />
+            <SliderBgImage slideCounter={slideCounter} playVideo={handlePlayVideo} />
             <InfoText sliderData={sliderData[slideCounter]}
             slideCounter={slideCounter} setSlideCounter={setSlideCounter}/>
         </div>
