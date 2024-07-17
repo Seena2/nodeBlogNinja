@@ -33,7 +33,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  box-shadow: 3px 4px 2px rgba(241, 245, 245, 0.2);
+  box-shadow: 3px 3px 2px rgba(92, 92, 92, 0.2);
 }
 
 .nav-logo {
@@ -140,4 +140,16 @@
   width: 2rem;
   border-radius: 50%;
   gap:1rem
+}
+
+/* Landing page body */
+
+.placeh{
+  margin-top: 5rem;
+}
+
+.content{
+  margin-top: 6rem;
+  text-align: center;
+ 
 }

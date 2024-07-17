@@ -6,23 +6,22 @@ import JobImg from "../assets/deskers.jpeg";
 import ArrowBtn from "../assets/arrow1.png";
 import PlayIcon from "../assets/play.png";
 import PauseIcon from "../assets/Pause.png"
-import Navbar from "./Navbar";
 
 
 //Slide image and text
 const sliderData = [
     {
-        text: "Acquire Skills that benefits you",
-        textSub: "from anyWhere",
+        text: "Acquire skills that benefits you",
+        textSub: "from confort of your home",
         image: 'url'
     },
     {
         text: "Create your resume on the fly!",
-        textSub: "a Click away",
+        textSub: "Just a Click away",
         image: 'url'
     },
     {
-        text: "get a Job, and flex that skill",
+        text: "Get a Job, and flex that skill",
         textSub: 'Without a hustle',
         image: 'url'
     }
@@ -78,10 +77,11 @@ export default function Slider() {
     //states
     const [slideCounter, setSlideCounter] = useState(0);
     const [playVideo,setPlayVideo]=useState(false); 
+
     //Automatic carosel change
     useEffect(()=>{
         setInterval(()=>{
-            setSlideCounter((count)=>{return count===2?0:count+1})
+            setSlideCounter((count)=>{return count===2 ? 0: count+1})
         },5000);
 
     },[])
@@ -92,7 +92,6 @@ export default function Slider() {
 
     return (
         <div>
-            <Navbar />
             <SliderBgImage slideCounter={slideCounter} playVideo={handlePlayVideo} />
             <InfoText sliderData={sliderData[slideCounter]}
             slideCounter={slideCounter} setSlideCounter={setSlideCounter}/>

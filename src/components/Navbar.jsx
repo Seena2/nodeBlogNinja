@@ -1,4 +1,7 @@
-import { useState } from "react";
+import {
+    BrowserRouter as Router,
+    Routes, Route, Link, useNavigate, Outlet,
+  } from 'react-router-dom';// to create router
 
 const SubMenuItems = [
     {
@@ -8,7 +11,7 @@ const SubMenuItems = [
     },
     {
         first: "Hire",
-        second:"Vacancy",
+        second: "Vacancy",
         third: "Get Hired"
     },
     {
@@ -41,22 +44,25 @@ function Dropdown({ items }) {
     );
 */
 }
-
-
-
-export default function Navbar() {
+const Navbar = () => {
     return (
-        <div >
-            <nav className="nav" >
-                <div className="nav-logo"><a href="#">Seena</a></div>
+        <div>
+            <nav className="nav">
+                <div className="nav-logo"><Link to="/">Seena</Link></div>
                 <ul className="nav-menu">
-                    <li><a className="menuLink" href="#">Explore</a> </li>
-                    <li><a className="menuLink" href="#">Skill</a></li>
-                    <li><a className="menuLink" href="#">Build Resume</a></li>
-                    <li><a className="menuLink" href="#">Job</a> </li>
-                    <li  ><a href="#" className="nav-login" >Login</a></li>
+                    <li><Link to="/explore" className="menuLink" >Explore</Link> </li>
+                    <li><Link to="/skill" className="menuLink">Skill</Link></li>
+                    <li><Link to="/resume" className="menuLink" >Build Resume</Link></li>
+                    <li><Link to="/job" className="menuLink">Job</Link> </li>
+                    <li><Link to="/login" className="nav-login" >Login</Link></li>
+
                 </ul>
             </nav>
         </div>
+
+
     );
 }
+
+
+export default Navbar;
