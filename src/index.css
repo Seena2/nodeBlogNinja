@@ -4,21 +4,19 @@
   box-sizing: border-box;
   font-family: Poppins, Verdana, Geneva, Tahoma, sans-serif;
 }
-
-/* Hero image styling */
-.bgImage {
-  width: 100%;
-  height: 100%;
-  float: left;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  position: fixed;
-  padding: none;
-  object-fit: cover;
-  z-index: -1;
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
 }
+
+html,body{
+  height: 100%;
+  margin: 0;
+  line-height: 1.5;
+  color: #121212;
+}
+
 
 /*Navbar Styling*/
 .nav {
@@ -81,11 +79,44 @@
   background-color: #1865d8;
   color:white;
 }
-
-.hero {
+ul li a {
+  color: #000;
+ }
+ 
+ ul li a:hover {
+  color: #00a8ff;
+ }
+ 
+ ul li a.active {
+  color: #00a8ff;
+ }
+ 
+ /* Carosel Styling */
+ .hero {
   margin: 0 6rem;
-  margin-top: 14rem;
-  
+  position: absolute;
+  top: 12rem;
+}
+
+/* Hero image styling */
+.bgImage {
+ object-fit: cover;
+ width: 100Vw;
+ height: 37vw;
+ position: relative;
+ z-index: -1;
+  /*
+  width: 100%;
+  height: 100%;
+  float: left;
+  top: 0;
+  left: 0;
+  right: 0;
+  position: fixed;
+  padding: none;
+  object-fit: cover;
+  z-index: -1;
+  */
 }
 .wecome-txt{
   color: #fff;
@@ -153,3 +184,69 @@
   text-align: center;
  
 }
+
+/*Form Styling*/
+.form-large{
+  background-color: #d4edf3;
+  width:75%;
+  margin:2rem auto;
+  border: 0.2rem #00a8ff solid;
+  border-radius: 1.6rem;
+}
+fieldset {
+  border-radius: 5px;
+  text-align: left;
+  margin: 2rem 4rem;
+  padding: 1rem;
+}
+legend{
+  padding: 0.3rem;
+  font-size: bold;
+  font-size: 1.4rem;
+}
+label{
+  font-size: 1.2rem;
+  display: block;
+  margin: 0 0 1rem 2rem;
+  
+}
+
+textarea,
+  input,
+  button {
+    font-size: 1rem;
+    font-family: inherit;
+    border: 1px solid #85a7ec;
+    border-radius: 8px;
+    padding: 0.5rem 0.75rem;
+    
+    background-color: white;
+    line-height: 1.5;
+    width: 90%;
+  }
+  
+  button {
+    width: 10%;
+    color: #3992ff;
+    font-weight: 500;
+    margin: 0 auto;
+  }
+
+  textarea:hover,
+  input:hover,
+  button:hover {
+    box-shadow: 0 0px 3px hsla(0, 0%, 0%, 0.6), 0 1px 2px hsla(0, 0%, 0%, 0.2);
+  }
+
+  button:active {
+    box-shadow: 0 0px 1px hsla(0, 0%, 0%, 0.4);
+    transform: translateY(1px);
+  }
+/* form section toggle between view and hide*/
+.hide{
+  display:none;
+}
+.show{
+  display: block;
+}
+
