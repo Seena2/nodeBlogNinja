@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+  <!--header partial template-->
+  <%-include('../partials/head.ejs') %>
+  <body>
+    <!--Navbar partial template-->
+    <%-include('../partials/nav.ejs') %>
+    <div class="content create_blog">
+      <h3>Create Blog</h3>
+      <form action="/blogs" method="post">
+        <label for="title">Blog title:</label>
+        <input type="text" id="title" name="title" required />
+        <label for="snippet">Blog snippet:</label>
+        <input type="text" id="snippet" name="snippet" required />
+        <label for="body">Blog body:</label>
+        <textarea id="body" name="body" required></textarea>
+        <button>Submit</button>
+      </form>
+    </div>
+    <!--footer partial template-->
+    <%-include('../partials/footer.ejs') %>
+  </body>
+</html>

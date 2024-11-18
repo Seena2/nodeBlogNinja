@@ -1,0 +1,999 @@
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via
+Streams and Buffers
+•	Used to read and write to large data from/to files.
+•	Streams:
+o	Allow us to start using the data, before it has finish loading(before it has been fully read). i.e. Hence reading large file takes time; instead of waiting until the file is fully read, we can fetch small batch of data called “buffers” at a time and we start working on the arrived batch immediately until the next batch arrives. 
+o	 For example, when you watch movie on Netflix or YouTube; a little bit of data is sent to the browser, so that you can start watching immediately without having to wait the for the whole video to load. 
+ 
+o	Lets see this in practice
+o	Read Streams:
+	We use the “createReadStream() “ method of the files system to create read stream which takes two argument the first specifies from where we read & and the secondand then we start reading from that stream via

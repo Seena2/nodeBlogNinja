@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <!--header partial template-->
+  <%-include('../partials/head.ejs') %>
+  <body>
+    <!--Navbar partial template-->
+    <%-include('../partials/nav.ejs') %>
+
+    <div class="content details">
+      <h2><%= blog.title %></h2>
+      <div class="content">
+        <p><%= blog.body %></p>
+      </div>
+      <a class="delete" data-doc="<%= blog._id %>">
+        <img src="/delete_svg.svg" alt=" delete icon" />
+      </a>
+    </div>
+    <!--footer partial template-->
+    <%-include('../partials/footer.ejs') %>
+    <script>
+      //grab the delete button link
+      const trashCan = document.querySelector("a.delete");
+      //add event listener
+      trashCan.addEventListener("click", (e) => {
+        //specify where to send the delete request to
+        const endpoint = `/blogs/${trashCan.dataset.doc}`;
+        //send a delete request using fetch API
+        fetch(endpoint, { method: "DELETE" })
+          //get the json sent from the server on delete
+          .then((response) => response.json())
+          //parse the recieved Json to JS  object we can use
+          .then((data) => {
+            //console.log(data)
+            //now redirect from the front end,
+            //b/c we can't to do redirecting from the server for ajax requests
+            window.location.href = data.redirect;
+          })
+          .catch((err) => {
+            console.log(err);
+          });
+      });
+    </script>
+  </body>
+</html>
